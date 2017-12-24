@@ -1,0 +1,10 @@
+C:\Users\marc-\Source\Repos\cryptoTP1\CoreTP1\CoreTP1\bin\Debug\netcoreapp2.0\CoreTP1.deps.json
+C:\Users\marc-\Source\Repos\cryptoTP1\CoreTP1\CoreTP1\bin\Debug\netcoreapp2.0\CoreTP1.runtimeconfig.json
+C:\Users\marc-\Source\Repos\cryptoTP1\CoreTP1\CoreTP1\bin\Debug\netcoreapp2.0\CoreTP1.runtimeconfig.dev.json
+C:\Users\marc-\Source\Repos\cryptoTP1\CoreTP1\CoreTP1\bin\Debug\netcoreapp2.0\CoreTP1.dll
+C:\Users\marc-\Source\Repos\cryptoTP1\CoreTP1\CoreTP1\bin\Debug\netcoreapp2.0\CoreTP1.pdb
+C:\Users\marc-\Source\Repos\cryptoTP1\CoreTP1\CoreTP1\obj\Debug\netcoreapp2.0\CoreTP1.csproj.CoreCompileInputs.cache
+C:\Users\marc-\Source\Repos\cryptoTP1\CoreTP1\CoreTP1\obj\Debug\netcoreapp2.0\CoreTP1.AssemblyInfoInputs.cache
+C:\Users\marc-\Source\Repos\cryptoTP1\CoreTP1\CoreTP1\obj\Debug\netcoreapp2.0\CoreTP1.AssemblyInfo.cs
+C:\Users\marc-\Source\Repos\cryptoTP1\CoreTP1\CoreTP1\obj\Debug\netcoreapp2.0\CoreTP1.dll
+C:\Users\marc-\Source\Repos\cryptoTP1\CoreTP1\CoreTP1\obj\Debug\netcoreapp2.0\CoreTP1.pdb

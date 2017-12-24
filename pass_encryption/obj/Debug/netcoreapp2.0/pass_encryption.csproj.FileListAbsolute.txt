@@ -1,0 +1,11 @@
+C:\Users\PM\Documents\projets\cryptography\pass_encryption\pass_encryption\bin\Debug\netcoreapp2.0\pass_encryption.deps.json
+C:\Users\PM\Documents\projets\cryptography\pass_encryption\pass_encryption\bin\Debug\netcoreapp2.0\pass_encryption.runtimeconfig.json
+C:\Users\PM\Documents\projets\cryptography\pass_encryption\pass_encryption\bin\Debug\netcoreapp2.0\pass_encryption.runtimeconfig.dev.json
+C:\Users\PM\Documents\projets\cryptography\pass_encryption\pass_encryption\bin\Debug\netcoreapp2.0\pass_encryption.dll
+C:\Users\PM\Documents\projets\cryptography\pass_encryption\pass_encryption\bin\Debug\netcoreapp2.0\pass_encryption.pdb
+C:\Users\PM\Documents\projets\cryptography\pass_encryption\pass_encryption\obj\Debug\netcoreapp2.0\pass_encryption.csprojResolveAssemblyReference.cache
+C:\Users\PM\Documents\projets\cryptography\pass_encryption\pass_encryption\obj\Debug\netcoreapp2.0\pass_encryption.csproj.CoreCompileInputs.cache
+C:\Users\PM\Documents\projets\cryptography\pass_encryption\pass_encryption\obj\Debug\netcoreapp2.0\pass_encryption.AssemblyInfoInputs.cache
+C:\Users\PM\Documents\projets\cryptography\pass_encryption\pass_encryption\obj\Debug\netcoreapp2.0\pass_encryption.AssemblyInfo.cs
+C:\Users\PM\Documents\projets\cryptography\pass_encryption\pass_encryption\obj\Debug\netcoreapp2.0\pass_encryption.dll
+C:\Users\PM\Documents\projets\cryptography\pass_encryption\pass_encryption\obj\Debug\netcoreapp2.0\pass_encryption.pdb
